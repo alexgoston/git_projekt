@@ -6,14 +6,12 @@
 // Összeadás
 //------------------
 
-$a = 10;
-$b = 15;
+$a = 105;
+$b = 150;
 $c  = 12;
 
-<<<<<<< HEAD
 print $a + $b + $b;
-=======
-print $a + $b;
+
 
 // Kivonás
 //--------------------
@@ -23,13 +21,6 @@ $y = 19;
 
 
 print "<br /><br />" . $x - $y;
->>>>>>> kivonás
-
-
-
-
-
-
-// Itt a vége!
-
+//Ez a kivonás ág
+//konfliktus lesz
 ?>
